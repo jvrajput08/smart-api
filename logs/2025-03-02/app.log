@@ -1,0 +1,87 @@
+[I 250302 14:06:29 api_test:84] WebSocket Connected
+[I 250302 14:06:29 api_test:78] Ticks: {'subscription_mode': 3, 'exchange_type': 1, 'token': '3045', 'sequence_number': 20744, 'exchange_timestamp': 1740792304965, 'last_traded_price': 68880, 'subscription_mode_val': 'SNAP_QUOTE', 'last_traded_quantity': 50, 'average_traded_price': 69005, 'volume_trade_for_the_day': 15780609, 'total_buy_quantity': 0.0, 'total_sell_quantity': 1676.0, 'open_price_of_the_day': 70090, 'high_price_of_the_day': 70135, 'low_price_of_the_day': 68260, 'closed_price': 70390, 'last_traded_timestamp': 1740738592, 'open_interest': 201136500, 'open_interest_change_percentage': -4658850874268561011, 'upper_circuit_limit': 75765, 'lower_circuit_limit': 61995, '52_week_high_price': 91200, '52_week_low_price': 68260, 'best_5_buy_data': [{'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}], 'best_5_sell_data': [{'flag': 0, 'quantity': 1676, 'price': 68880, 'no of orders': 17}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}]}
+[W 250302 14:07:09 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:07:09 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250302 14:07:15 api_test:84] WebSocket Connected
+[I 250302 14:07:15 api_test:78] Ticks: {'subscription_mode': 3, 'exchange_type': 1, 'token': '3045', 'sequence_number': 20744, 'exchange_timestamp': 1740792304965, 'last_traded_price': 68880, 'subscription_mode_val': 'SNAP_QUOTE', 'last_traded_quantity': 50, 'average_traded_price': 69005, 'volume_trade_for_the_day': 15780609, 'total_buy_quantity': 0.0, 'total_sell_quantity': 1676.0, 'open_price_of_the_day': 70090, 'high_price_of_the_day': 70135, 'low_price_of_the_day': 68260, 'closed_price': 70390, 'last_traded_timestamp': 1740738592, 'open_interest': 201136500, 'open_interest_change_percentage': -4658850874268561011, 'upper_circuit_limit': 75765, 'lower_circuit_limit': 61995, '52_week_high_price': 91200, '52_week_low_price': 68260, 'best_5_buy_data': [{'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}], 'best_5_sell_data': [{'flag': 0, 'quantity': 1676, 'price': 68880, 'no of orders': 17}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}]}
+[I 250302 14:07:20 api_test:84] WebSocket Connected
+[I 250302 14:07:21 api_test:78] Ticks: {'subscription_mode': 3, 'exchange_type': 1, 'token': '3045', 'sequence_number': 20744, 'exchange_timestamp': 1740792304965, 'last_traded_price': 68880, 'subscription_mode_val': 'SNAP_QUOTE', 'last_traded_quantity': 50, 'average_traded_price': 69005, 'volume_trade_for_the_day': 15780609, 'total_buy_quantity': 0.0, 'total_sell_quantity': 1676.0, 'open_price_of_the_day': 70090, 'high_price_of_the_day': 70135, 'low_price_of_the_day': 68260, 'closed_price': 70390, 'last_traded_timestamp': 1740738592, 'open_interest': 201136500, 'open_interest_change_percentage': -4658850874268561011, 'upper_circuit_limit': 75765, 'lower_circuit_limit': 61995, '52_week_high_price': 91200, '52_week_low_price': 68260, 'best_5_buy_data': [{'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}], 'best_5_sell_data': [{'flag': 0, 'quantity': 1676, 'price': 68880, 'no of orders': 17}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}]}
+[W 250302 14:07:55 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:07:55 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250302 14:08:00 api_test:58] No data received in 30 seconds. Reconnecting...
+[I 250302 14:08:01 api_test:84] WebSocket Connected
+[I 250302 14:08:02 api_test:78] Ticks: {'subscription_mode': 3, 'exchange_type': 1, 'token': '3045', 'sequence_number': 20744, 'exchange_timestamp': 1740792304965, 'last_traded_price': 68880, 'subscription_mode_val': 'SNAP_QUOTE', 'last_traded_quantity': 50, 'average_traded_price': 69005, 'volume_trade_for_the_day': 15780609, 'total_buy_quantity': 0.0, 'total_sell_quantity': 1676.0, 'open_price_of_the_day': 70090, 'high_price_of_the_day': 70135, 'low_price_of_the_day': 68260, 'closed_price': 70390, 'last_traded_timestamp': 1740738592, 'open_interest': 201136500, 'open_interest_change_percentage': -4658850874268561011, 'upper_circuit_limit': 75765, 'lower_circuit_limit': 61995, '52_week_high_price': 91200, '52_week_low_price': 68260, 'best_5_buy_data': [{'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 1, 'quantity': 0, 'price': 0, 'no of orders': 0}], 'best_5_sell_data': [{'flag': 0, 'quantity': 1676, 'price': 68880, 'no of orders': 17}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}, {'flag': 0, 'quantity': 0, 'price': 0, 'no of orders': 0}]}
+[I 250302 14:08:06 api_test:84] WebSocket Connected
+[W 250302 14:08:06 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250302 14:08:17 api_test:89] Connection closed
+[W 250302 14:08:17 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:08:17 api_test:89] Connection closed
+[W 250302 14:08:17 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:08:17 api_test:89] Connection closed
+[W 250302 14:08:17 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250302 14:08:37 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:08:41 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:08:43 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250302 14:08:46 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:08:47 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250302 14:08:52 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250302 14:08:54 api_test:89] Connection closed
+[W 250302 14:08:54 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:08:54 api_test:89] Connection closed
+[W 250302 14:08:54 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:08:54 api_test:89] Connection closed
+[W 250302 14:08:54 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:08:58 api_test:89] Connection closed
+[W 250302 14:08:58 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:08:58 api_test:89] Connection closed
+[W 250302 14:08:58 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:08:58 api_test:89] Connection closed
+[W 250302 14:08:58 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:03 api_test:89] Connection closed
+[W 250302 14:09:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:03 api_test:89] Connection closed
+[W 250302 14:09:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:03 api_test:89] Connection closed
+[W 250302 14:09:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250302 14:09:14 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:09:18 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:09:20 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250302 14:09:23 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:09:24 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250302 14:09:29 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250302 14:09:30 api_test:89] Connection closed
+[W 250302 14:09:30 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:30 api_test:89] Connection closed
+[W 250302 14:09:30 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:30 api_test:89] Connection closed
+[W 250302 14:09:30 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:35 api_test:89] Connection closed
+[W 250302 14:09:35 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:35 api_test:89] Connection closed
+[W 250302 14:09:35 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:35 api_test:89] Connection closed
+[W 250302 14:09:35 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:39 api_test:89] Connection closed
+[W 250302 14:09:39 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:39 api_test:89] Connection closed
+[W 250302 14:09:39 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:09:39 api_test:89] Connection closed
+[W 250302 14:09:39 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250302 14:09:50 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:09:55 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:09:56 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250302 14:09:59 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250302 14:10:01 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250302 14:10:05 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250302 14:10:07 api_test:89] Connection closed
+[W 250302 14:10:07 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:10:07 api_test:89] Connection closed
+[W 250302 14:10:07 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:10:07 api_test:89] Connection closed
+[W 250302 14:10:07 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:10:11 api_test:89] Connection closed
+[W 250302 14:10:11 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:10:11 api_test:89] Connection closed
+[W 250302 14:10:11 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250302 14:10:11 api_test:89] Connection closed
+[W 250302 14:10:11 smartWebSocketV2:342] Connection closed due to max retry attempts reached.

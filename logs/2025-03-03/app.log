@@ -1,0 +1,58 @@
+[I 250303 09:11:18 api_test:85] WebSocket Connected
+[W 250303 09:11:18 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250303 09:11:29 api_test:85] WebSocket Connected
+[W 250303 09:11:30 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[I 250303 09:11:51 api_test:85] WebSocket Connected
+[W 250303 09:11:51 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 3)...
+[W 250303 09:12:29 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250303 09:12:31 api_test:58] No data received in 30 seconds. Reconnecting...
+[I 250303 09:12:33 api_test:85] WebSocket Connected
+[E 250303 09:12:34 api_test:90] Connection closed
+[W 250303 09:12:34 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:12:34 api_test:90] Connection closed
+[W 250303 09:12:34 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:12:34 api_test:90] Connection closed
+[W 250303 09:12:34 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:12:34 api_test:90] Connection closed
+[W 250303 09:12:34 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:12:34 api_test:90] Connection closed
+[W 250303 09:12:34 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:15:38 smartConnect:221] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'e4:a4:71:05:7b:e2', 'Accept': 'application/json', 'X-PrivateKey': 'HRfvYqVU', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'R301936', 'password': '9080', 'totp': '091587'}, Response: HTTPSConnectionPool(host='apiconnect.angelone.in', port=443): Read timed out. (read timeout=7)
+[I 250303 09:16:26 api_test:85] WebSocket Connected
+[W 250303 09:16:27 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250303 09:16:38 api_test:85] WebSocket Connected
+[W 250303 09:16:38 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[I 250303 09:17:01 api_test:85] WebSocket Connected
+[W 250303 09:17:01 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 3)...
+[W 250303 09:17:38 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250303 09:17:41 api_test:58] No data received in 30 seconds. Reconnecting...
+[I 250303 09:17:42 api_test:85] WebSocket Connected
+[E 250303 09:17:44 api_test:90] Connection closed
+[W 250303 09:17:44 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:17:44 api_test:90] Connection closed
+[W 250303 09:17:44 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:17:44 api_test:90] Connection closed
+[W 250303 09:17:44 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:17:44 api_test:90] Connection closed
+[W 250303 09:17:44 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:17:44 api_test:90] Connection closed
+[W 250303 09:17:44 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250303 09:19:52 api_test:85] WebSocket Connected
+[W 250303 09:19:53 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250303 09:20:04 api_test:85] WebSocket Connected
+[W 250303 09:20:04 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[I 250303 09:20:24 api_test:85] WebSocket Connected
+[W 250303 09:20:25 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 3)...
+[W 250303 09:21:04 api_test:58] No data received in 30 seconds. Reconnecting...
+[W 250303 09:21:04 api_test:58] No data received in 30 seconds. Reconnecting...
+[I 250303 09:21:06 api_test:85] WebSocket Connected
+[E 250303 09:21:07 api_test:90] Connection closed
+[W 250303 09:21:07 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:21:07 api_test:90] Connection closed
+[W 250303 09:21:07 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:21:07 api_test:90] Connection closed
+[W 250303 09:21:07 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:21:07 api_test:90] Connection closed
+[W 250303 09:21:07 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250303 09:21:07 api_test:90] Connection closed
+[W 250303 09:21:07 smartWebSocketV2:342] Connection closed due to max retry attempts reached.

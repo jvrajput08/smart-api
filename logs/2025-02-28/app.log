@@ -1,0 +1,32 @@
+[I 250228 23:48:14 api_test:91] on open
+[I 250228 23:48:14 api_test:84] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '1594', 'sequence_number': 17306379, 'exchange_timestamp': 1740750237000, 'last_traded_price': 168770, 'subscription_mode_val': 'LTP'}
+[W 250228 23:48:14 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250228 23:48:24 api_test:91] on open
+[I 250228 23:48:24 api_test:84] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '1594', 'sequence_number': 17306379, 'exchange_timestamp': 1740750237000, 'last_traded_price': 168770, 'subscription_mode_val': 'LTP'}
+[W 250228 23:48:24 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[I 250228 23:48:34 api_test:91] on open
+[I 250228 23:48:34 api_test:84] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '1594', 'sequence_number': 17306379, 'exchange_timestamp': 1740750237000, 'last_traded_price': 168770, 'subscription_mode_val': 'LTP'}
+[E 250228 23:48:34 api_test:102] Connection closed
+[W 250228 23:48:34 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250228 23:56:14 api_test:68] on open
+[I 250228 23:56:14 api_test:61] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '3045', 'sequence_number': 17309248, 'exchange_timestamp': 1740750238000, 'last_traded_price': 68880, 'subscription_mode_val': 'LTP'}
+[W 250228 23:56:14 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250228 23:56:24 api_test:68] on open
+[I 250228 23:56:24 api_test:61] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '3045', 'sequence_number': 17309248, 'exchange_timestamp': 1740750238000, 'last_traded_price': 68880, 'subscription_mode_val': 'LTP'}
+[W 250228 23:56:24 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[I 250228 23:56:34 api_test:68] on open
+[I 250228 23:56:34 api_test:61] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '3045', 'sequence_number': 17309248, 'exchange_timestamp': 1740750238000, 'last_traded_price': 68880, 'subscription_mode_val': 'LTP'}
+[E 250228 23:56:34 api_test:79] Connection closed
+[W 250228 23:56:34 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250228 23:56:37 api_test:68] on open
+[I 250228 23:57:16 api_test:68] on open
+[I 250228 23:57:40 api_test:68] on open
+[I 250228 23:57:40 api_test:61] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '3045', 'sequence_number': 17309248, 'exchange_timestamp': 1740750238000, 'last_traded_price': 68880, 'subscription_mode_val': 'LTP'}
+[W 250228 23:57:40 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250228 23:57:50 api_test:68] on open
+[I 250228 23:57:50 api_test:61] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '3045', 'sequence_number': 17309248, 'exchange_timestamp': 1740750238000, 'last_traded_price': 68880, 'subscription_mode_val': 'LTP'}
+[W 250228 23:57:50 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[I 250228 23:58:01 api_test:68] on open
+[I 250228 23:58:01 api_test:61] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '3045', 'sequence_number': 17309248, 'exchange_timestamp': 1740750238000, 'last_traded_price': 68880, 'subscription_mode_val': 'LTP'}
+[E 250228 23:58:01 api_test:79] Connection closed
+[W 250228 23:58:01 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
